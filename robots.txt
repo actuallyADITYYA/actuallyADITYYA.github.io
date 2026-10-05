@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://actuallyadityya.github.io/capybara-pet-site/sitemap.xml
